@@ -1,0 +1,38 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	application	-0.0643	0.0092	1	17	23	9	2017.1111
+2	avenue	-0.202	-0.0212	1	4	6	2	2020.5
+3	biomedical application	-0.337	-0.0386	1	6	6	2	2020.5
+4	biopolymeric matrix	-0.9501	-0.0524	5	6	17	3	2016
+5	blend	1.0725	-0.0057	2	7	9	3	2010
+6	butylene succinate	0.4981	-0.006	2	2	2	2	2015.5
+8	caprolactone	1.3426	-0.001	3	4	7	3	2017.6667
+9	castor oil	-1.1988	-0.0927	6	1	1	2	2015
+10	cementitious matrix	-0.7849	0.1532	4	4	4	2	2021
+11	characterization	-0.6216	-0.0215	5	10	26	8	2016.75
+12	conductivity	1.017	-0.0031	2	7	8	2	2005.5
+13	detailed investigation	1.3404	-0.0031	3	4	7	2	2016
+15	effect	1.1836	-0.0033	3	10	17	6	2012.3333
+16	electrical conductivity	1.0283	-0.0038	2	8	9	3	2008.3333
+17	gold nanoparticle	-0.1157	-0.0192	1	5	6	2	2020
+19	magnetic nanocomposite	-1.0821	-0.0807	6	9	22	8	2015.125
+20	magnetite nanoparticle	-0.3378	0.0207	1	5	5	2	2020
+21	modification	-0.3453	0.0154	1	6	7	3	2017
+22	nanotechnology	-0.2466	-0.0108	1	1	1	3	2021.3333
+23	new biobased poly	-0.9629	-0.0491	5	6	12	2	2017
+24	new petroleum absorber	-1.1973	-0.1008	6	1	2	2	2012.5
+25	oil	-0.712	0.1269	4	8	10	4	2019.25
+26	pani	1.0454	-0.0061	2	7	10	3	2009.6667
+27	pcl	1.3431	-0.0041	3	4	7	2	2016
+28	polyaniline	1.0541	-0.0065	2	5	6	3	2010.3333
+30	polymerization	0.79	-0.0057	2	8	9	4	2012.25
+31	preparation	0.2453	-0.0057	2	6	7	4	2017.5
+32	production	-0.754	0.1508	4	5	7	4	2018
+33	removal	-0.3277	0.0268	1	9	10	3	2019.3333
+34	review	-0.2487	-0.0066	1	9	13	6	2020.6667
+35	ricinoleic acid	-0.9513	-0.0442	5	6	17	3	2016
+36	situ	1.0889	-0.0067	2	3	3	2	2012.5
+37	synthesis	-0.7131	-0.0391	5	12	28	9	2016.8889
+38	thermal stability	1.1987	-0.0021	3	7	8	2	2010
+39	use	-0.7355	0.0394	4	15	27	6	2017.3333
+40	vinyl pivalate	-0.5763	-0.0594	1	3	4	2	2018
+41	work	-0.7829	0.1564	4	4	5	2	2020.5
